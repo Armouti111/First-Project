@@ -1,0 +1,19 @@
+ul{
+    background-color: gray;
+}
+
+#para{
+    font-size: 20px;
+}
+
+.first{
+    font-family: sans-serif;
+}
+
+ul :nth-of-type(odd){
+    background-color: white;
+}
+
+ul :nth-of-type(even){
+    background-color: blue;
+}
